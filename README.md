@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Carlos
 - 👀 I’m interested in Solana, DeFi, Quant Finance and more!
 - 🌱 I’m currently learning Rust -> Anchor -> Solana Smart Contracts
-- 💞️ I’m looking to collaborate on any Solana DeFi project!
+- 🤝 I’m looking to collaborate on any Solana DeFi project!
 - 📫 How to reach me: Telegram: @CTDMarkets and Twitter: @DegenThales
 
 <!---
