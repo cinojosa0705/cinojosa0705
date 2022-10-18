@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Carlos
+- 👋 Hi, I’m Thales
 - 👀 I’m interested in Solana, DeFi, NFTs, Quant Finance and more!
 - 🌱 I’m currently learning Go, JS, Rust and Anchor
 - 🤝 I’m looking to collaborate on any Solana DeFi project!
