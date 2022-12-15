@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Thales
 - 👀 I’m interested in Solana, DeFi, NFTs, Quant Finance and more!
-- 🌱 I’m currently learning Go, JS, Rust and Anchor
-- 🤝 I’m looking to collaborate on any Solana DeFi project!
-- 📫 How to reach me: Telegram: @CTDMarkets and Twitter: @DegenThales
+- 🌱 I’m currently learning/working with Go, JS, TS, React, Rust, Anchor and more
+- 💻 I'm an intern dev at Hxro Labs, a Derivatives Infastructure Protocol on Solana
+- 📫 How to reach me: Telegrama: @ThalesOfMiletus and Twitter: @ThalesHXRO
 
 <!---
 cinojosa0705/cinojosa0705 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
