@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Thales
 - 👀 I’m interested in Solana, DeFi, NFTs, Quant Finance and more!
 - 🌱 I’m currently learning/working with Go, JS, TS, React, Rust, Anchor and more
-- 💻 I'm an intern dev at Hxro Labs, a Derivatives Infastructure Protocol on Solana
+- 💻 I'm DevRel Lead at Hxro Labs, a Derivatives Infastructure Protocol on Solana
 - 📫 How to reach me: Telegrama: @ThalesOfMiletus and Twitter: @ThalesHXRO
 
 <!---
