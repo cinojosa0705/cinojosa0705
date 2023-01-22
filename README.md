@@ -1,10 +1,42 @@
-- 👋 Hi, I’m Thales
-- 👀 I’m interested in Solana, DeFi, NFTs, Quant Finance and more!
-- 🌱 I’m currently learning/working with Go, JS, TS, React, Rust, Anchor and more
-- 💻 I'm DevRel Lead at Hxro Labs, a Derivatives Infastructure Protocol on Solana
-- 📫 How to reach me: Telegrama: @ThalesOfMiletus and Twitter: @ThalesHXRO
-
-<!---
-cinojosa0705/cinojosa0705 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+{
+    "name": "Thales",
+    "interests": \[
+        "Solana",
+        "DeFi",
+        "Quant Finance",
+        "Derivatives",
+        "Financial Primitives"
+    ],
+    "job": {
+        "position": "DevRel Lead & Grants",
+        "where": "Hxro Labs",
+        "description": "Contributors to the Hxro Network, a Derivatives Infastructure Protocol on Solana",
+        "what": \[
+        "Working on building out better documentation for all of the SDKs of both our user-facing liquidity protocols, Dexterity, and Parimutuels",
+        "Make written and video content on how to build on top of the Hxro Network (also in Spanish)",
+        "Building out more FOSS projects that utilize our liquidity layer that devs can look at, reference, and play with",
+        "Communicate, engage, and work with Developer Communities (like @LamportDAO) to help them understand better who we are and what can they build with us",
+        "Establish a clear Grant & Bounty program so to incentive and fuel both our Developers and dAPPs Ecosystem"
+    ],
+    },
+    "wokingWith": \[
+        "JS",
+        "TS",
+        "React",
+        "Python",
+    ],
+    "learning": \[
+        "Rust",
+        "Anchor",
+        "Smart Contract (Programs) Development"
+    ],
+    "want2Learn": \[
+        "Solidity",
+        "EVM",
+        "Cosmos"
+    ],
+    "contact": {
+        "telegram": "@ThalesOfMiletus",
+        "twitter": "@ThalesHXRO"
+    }
+}
