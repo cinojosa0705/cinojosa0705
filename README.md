@@ -1,5 +1,5 @@
 {
-    "name": "Thales",\b
+    "name": "Thales",\n
     "interests": \[
         "Solana",
         "DeFi",
