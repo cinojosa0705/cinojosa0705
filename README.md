@@ -1,4 +1,4 @@
-{
+"{
     "name": "Thales",
     "interests": \[
         "Solana",
@@ -39,4 +39,4 @@
         "telegram": "@ThalesOfMiletus",
         "twitter": "@ThalesHXRO"
     }
-}
+}"
