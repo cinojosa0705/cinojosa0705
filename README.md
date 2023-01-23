@@ -1,5 +1,5 @@
-{
-    "name": "Thales",\n
+
+    "name": "Thales",
     "interests": \[
         "Solana",
         "DeFi",
@@ -39,4 +39,4 @@
         "telegram": "@ThalesOfMiletus",
         "twitter": "@ThalesHXRO"
     }
-}
+
