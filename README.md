@@ -12,11 +12,11 @@
         "where": "Hxro Labs",
         "description": "Contributors to the Hxro Network, a Derivatives Infastructure Protocol on Solana",
         "what": \[
-        "Working on building out better documentation for all of the SDKs of both our user-facing liquidity protocols, Dexterity, and Parimutuels",
+        "Improving documentation for our liquidity protocols SDKs.",
         "Make written and video content on how to build on top of the Hxro Network (also in Spanish)",
-        "Building out more FOSS projects that utilize our liquidity layer that devs can look at, reference, and play with",
-        "Communicate, engage, and work with Developer Communities (like @LamportDAO) to help them understand better who we are and what can they build with us",
-        "Establish a clear Grant & Bounty program so to incentive and fuel both our Developers and dAPPs Ecosystem"
+        "Building Open Source projects that utilize the Hxro Networks protocols",
+        "Communicate, engage, and work with Developer Communities",
+        "Manage our Grant & Bounty program so to incentivize and fuel both our Developers and dAPPs Ecosystem (soon)"
     ],
     },
     "wokingWith": \[
