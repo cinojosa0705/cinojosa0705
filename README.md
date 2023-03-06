@@ -10,7 +10,7 @@
     "job": {
         "position": "DevRel Lead & Grants",
         "where": "Hxro Labs",
-        "description": "Contributors to the Hxro Network, a Derivatives Infastructure Protocol on Solana",
+        "companyDescription": "Contributors to the Hxro Network, a Derivatives Infastructure Protocol on Solana",
         "what": \[
         "Improving documentation for our liquidity protocols SDKs.",
         "Make written and video content on how to build on top of the Hxro Network (also in Spanish)",
