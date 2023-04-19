@@ -4,7 +4,7 @@
         "telegram": "@ThalesOfMiletus",
         "twitter": "@ThalesHXRO"
     },
-    "interests": \[
+    "interests": [
         "Solana",
         "DeFi",
         "Quant Finance",
@@ -23,7 +23,7 @@
         "Manage our Grant & Bounty program so to incentivize and fuel both our Developers and dAPPs Ecosystem"
     ],
     },
-    "wokingWith": \[
+    "wokingWith": [
         "JS",
         "TS",
         "React",
@@ -31,12 +31,12 @@
         "Vue",
         "Python",
     ],
-    "learning": \[
+    "learning": [
         "Rust",
         "Anchor",
         "Smart Contract (Programs) Development"
     ],
-    "want2Learn": \[
+    "want2Learn": [
         "Solidity",
         "EVM",
         "Cosmos"
