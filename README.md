@@ -1,5 +1,9 @@
 
     "name": "Thales",
+    "contact": {
+        "telegram": "@ThalesOfMiletus",
+        "twitter": "@ThalesHXRO"
+    },
     "interests": \[
         "Solana",
         "DeFi",
@@ -36,9 +40,5 @@
         "Solidity",
         "EVM",
         "Cosmos"
-    ],
-    "contact": {
-        "telegram": "@ThalesOfMiletus",
-        "twitter": "@ThalesHXRO"
-    }
+    ]
 
