@@ -16,7 +16,7 @@
         "Make written and video content on how to build on top of the Hxro Network (also in Spanish)",
         "Building Open Source projects that utilize the Hxro Networks protocols",
         "Communicate, engage, and work with Developer Communities",
-        "Manage our Grant & Bounty program so to incentivize and fuel both our Developers and dAPPs Ecosystem (soon)"
+        "Manage our Grant & Bounty program so to incentivize and fuel both our Developers and dAPPs Ecosystem"
     ],
     },
     "wokingWith": \[
