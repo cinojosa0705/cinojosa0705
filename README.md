@@ -23,6 +23,8 @@
         "JS",
         "TS",
         "React",
+        "Next",
+        "Vue",
         "Python",
     ],
     "learning": \[
