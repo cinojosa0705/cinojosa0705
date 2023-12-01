@@ -6,6 +6,8 @@
     },
     "interests": [
         "Solana",
+        "L2s",
+        "CLOBs",
         "DeFi",
         "Quant Finance",
         "Derivatives",
