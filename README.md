@@ -30,6 +30,8 @@
         "Next",
         "Vue",
         "Python",
+        "Rust",
+        "Solidity"
     ],
     "learning": [
         "Rust",
