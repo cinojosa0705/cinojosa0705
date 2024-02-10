@@ -5,7 +5,9 @@
         "twitter": "@ThalesHXRO"
     },
     "interests": [
+        "Bitcoin",
         "Solana",
+        "EVM",
         "L2s",
         "CLOBs",
         "DeFi",
@@ -28,21 +30,14 @@
     "wokingWith": [
         "JS",
         "TS",
-        "React",
-        "Next",
-        "Vue",
         "Python",
         "Rust",
         "Solidity"
     ],
     "learning": [
-        "Rust",
-        "Anchor",
-        "Smart Contract (Programs) Development"
+        "Everyday"
     ],
     "want2Learn": [
-        "Solidity",
-        "EVM",
-        "Cosmos"
+        "MEV"
     ]
 
